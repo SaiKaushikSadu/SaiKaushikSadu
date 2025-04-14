@@ -14,16 +14,19 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sai-kaushik-sadu-938373229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/codesign97/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
+  &nbsp;
   <a href="https://www.codechef.com/users/ssk_9_7" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="30" height="30"/>
   </a>
+  &nbsp;
   <a href="https://codeforces.com/profile/ssk__9__7" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://sta.codeforces.com/s/59507/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="30" height="30"/>
   </a>
 </p>
 
