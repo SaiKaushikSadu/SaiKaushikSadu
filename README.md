@@ -16,13 +16,13 @@
   <a href="https://www.linkedin.com/in/sai-kaushik-sadu-938373229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/Sai_Kaushik_Sadu/" target="_blank">
+  <a href="https://leetcode.com/codesign97/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.codechef.com/users/sai_kaushik" target="_blank">
+  <a href="https://www.codechef.com/users/ssk_9_7" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-  <a href="https://codeforces.com/profile/Sai_Kaushik" target="_blank">
+  <a href="https://codeforces.com/profile/ssk__9__7" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
