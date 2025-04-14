@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/ssk__9__7" target="_blank">
-    <img src="https://sta.codeforces.com/s/59507/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="70" height="30"/>
+    <img src="https://sta.codeforces.com/s/59507/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="90" height="30"/>
   </a>
 </p>
 
