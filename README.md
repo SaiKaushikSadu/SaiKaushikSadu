@@ -22,11 +22,11 @@
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/ssk_9_7" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521532-2944960.png" alt="CodeChef" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" width="30" height="30"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/ssk__9__7" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3521354-2944772.png" alt="Codeforces" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="Codeforces" width="30" height="30"/>
   </a>
 </p>
 
